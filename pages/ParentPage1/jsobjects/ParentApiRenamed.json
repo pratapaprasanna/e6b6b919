@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "ParentApiRenamed",
+    "pageId": "ParentPage1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "ParentPage1_ParentApiRenamed",
+  "deleted": false,
+  "gitSyncId": "637b53da93bb9940c9b64511_637b53e593bb9940c9b6451d"
+}
